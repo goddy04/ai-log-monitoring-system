@@ -1,0 +1,213 @@
+/* =====================================================
+   GLOBAL THEME VARIABLES (Blue–Orange Pastel)
+   ===================================================== */
+:root {
+    --bg: #F8FAFC;
+    --card: #FFFFFF;
+    --text: #1F2937;
+
+    --blue: #2563EB;
+    --blue-soft: #DBEAFE;
+
+    --orange: #F97316;
+    --orange-soft: #FFEDD5;
+
+    --border: #E5E7EB;
+}
+
+/* =====================================================
+   BASE RESET
+   ===================================================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+/* =====================================================
+   HEADER
+   ===================================================== */
+header {
+    padding-top: 28px;
+    padding-left: 32px;
+    padding-right: 32px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--blue);
+}
+
+header p {
+    margin-top: 6px;
+    font-size: 1.05rem;
+    color: #475569;
+}
+
+/* =====================================================
+   PAGE LAYOUT
+   ===================================================== */
+.layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+        "incidents severity"
+        "impact logs";
+    gap: 24px;
+    padding: 32px;
+}
+
+.incidents { grid-area: incidents; }
+.severity  { grid-area: severity; }
+.impact    { grid-area: impact; }
+.logs      { grid-area: logs; }
+
+@media (max-width: 900px) {
+    .layout {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* =====================================================
+   CARD CONTAINER
+   ===================================================== */
+.card {
+    background: var(--card);
+    padding: 24px;
+    border-radius: 18px;
+    border: 1px solid var(--border);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.04);
+}
+
+.card h2 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--blue);
+    margin-bottom: 16px;
+}
+
+.wide {
+    grid-column: 1 / 2;
+}
+
+/* =====================================================
+   SEVERITY PILLS
+   ===================================================== */
+.severity {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.pill {
+    padding: 10px 18px;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: 1px solid;
+}
+
+.p1 {
+    background: #FEE2E2;
+    border-color: #FCA5A5;
+}
+
+.p2 {
+    background: var(--orange-soft);
+    border-color: var(--orange);
+}
+
+.p3 {
+    background: #D1FAE5;
+    border-color: #6EE7B7;
+}
+
+/* =====================================================
+   INCIDENT TABLE
+   ===================================================== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background: var(--blue-soft);
+}
+
+th {
+    text-align: left;
+    padding: 12px;
+    font-size: 0.9rem;
+    color: var(--blue);
+    border-bottom: 1px solid var(--border);
+}
+
+td {
+    padding: 12px;
+    font-size: 0.9rem;
+    border-bottom: 1px solid var(--border);
+}
+
+tbody tr:hover {
+    background: #F1F5F9;
+}
+
+/* =====================================================
+   LOG VIEW
+   ===================================================== */
+pre {
+    background: var(--blue-soft);
+    padding: 16px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    max-height: 300px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+}
+
+/* =====================================================
+   SCROLLBAR (OPTIONAL POLISH)
+   ===================================================== */
+pre::-webkit-scrollbar {
+    width: 6px;
+}
+
+pre::-webkit-scrollbar-thumb {
+    background: var(--blue);
+    border-radius: 8px;
+}
+
+pre::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* =====================================================
+   FOOTER SPACE (CLEAN END)
+   ===================================================== */
+body::after {
+    content: "";
+    display: block;
+    height: 40px;
+}
+
+/* =======================
+   DONUT CHART SIZE CONTROL
+   ======================= */
+.donut-wrapper {
+    max-width: 220px;
+    margin: 0 auto;
+}
+
+#severityChart {
+    width: 100% !important;
+    height: auto !important;
+}

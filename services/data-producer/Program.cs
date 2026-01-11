@@ -2,9 +2,13 @@
 {
     public class Program
     {
-        public static void main()
+        public static void Main()
         {
-            
+            LogSimulator.Generate(10);
+
+            Preprocessor.Clean();
+
+            FeatureExtractor.Extract();
         }
     }
 }

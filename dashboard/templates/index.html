@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Log Monitoring Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+
+<header>
+    <h1 style="color: #1E3E62; text-align-last: left;">AI-Powered Log Monitoring</h1>
+    
+</header>
+
+
+
+   <main class="layout">
+
+    <!-- Row 1 -->
+    <section class="card incidents">
+        <h2>🚨 Active Incidents</h2>
+        <table id="incident-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Severity</th>
+                    <th>Services</th>
+                    <th>Description</th>
+                    <th>Time</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </section>
+
+    <section class="card severity">
+        <h2>🚦 Severity Overview</h2>
+        <div class="severity">
+            <div class="pill p1">P1 – Critical: <span id="p1">0</span></div>
+            <div class="pill p2">P2 – High: <span id="p2">0</span></div>
+            <div class="pill p3">P3 – Medium: <span id="p3">0</span></div>
+        </div>
+    </section>
+
+    <!-- Row 2 -->
+    <section class="card severity">
+    <h2>🛡️ Security Overview</h2>
+
+        <div class="donut-wrapper">
+            <canvas id="severityChart"></canvas>
+        </div>
+    </section>
+
+     <section class="card impact">
+        <h2> Service Impacted</h2>
+        <canvas id="serviceChart" height="100"></canvas>
+    </section>
+
+    <section class="card logs">
+        <h2>📜 Live Logs</h2>
+        <pre id="logs"></pre>
+    </section>
+
+</main>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

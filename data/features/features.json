@@ -1,0 +1,30 @@
+[
+  {
+    "service": "DB",
+    "log_count": 7,
+    "error_count": 0,
+    "warning_count": 0,
+    "avg_response_time": 13
+  },
+  {
+    "service": "AUTH",
+    "log_count": 7,
+    "error_count": 0,
+    "warning_count": 0,
+    "avg_response_time": 30
+  },
+  {
+    "service": "API",
+    "log_count": 10,
+    "error_count": 1,
+    "warning_count": 1,
+    "avg_response_time": 116
+  },
+  {
+    "service": "WEB",
+    "log_count": 10,
+    "error_count": 3,
+    "warning_count": 0,
+    "avg_response_time": 187
+  }
+]
