@@ -1,0 +1,12 @@
+[
+  {
+    "service": "DB",
+    "is_anomaly": true,
+    "anomaly_score": -0.62
+  },
+  {
+    "service": "WEB",
+    "is_anomaly": false,
+    "anomaly_score": 0.12
+  }
+]
