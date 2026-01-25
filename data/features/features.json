@@ -1,30 +1,30 @@
 [
   {
     "service": "DB",
-    "log_count": 7,
-    "error_count": 0,
-    "warning_count": 0,
-    "avg_response_time": 13
+    "log_count": 104,
+    "error_count": 7,
+    "warning_count": 14,
+    "avg_response_time": 72
   },
   {
     "service": "AUTH",
-    "log_count": 7,
-    "error_count": 0,
-    "warning_count": 0,
-    "avg_response_time": 30
+    "log_count": 107,
+    "error_count": 15,
+    "warning_count": 8,
+    "avg_response_time": 98
   },
   {
     "service": "API",
-    "log_count": 10,
-    "error_count": 1,
-    "warning_count": 1,
-    "avg_response_time": 116
+    "log_count": 112,
+    "error_count": 22,
+    "warning_count": 7,
+    "avg_response_time": 154
   },
   {
     "service": "WEB",
-    "log_count": 10,
-    "error_count": 3,
+    "log_count": 100,
+    "error_count": 24,
     "warning_count": 0,
-    "avg_response_time": 187
+    "avg_response_time": 213
   }
 ]

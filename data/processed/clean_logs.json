@@ -2,205 +2,2539 @@
   {
     "service": "DB",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 22
+    "timestamp": "2026-01-25T12:53:15",
+    "response_time": 13
   },
   {
     "service": "AUTH",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 36
+    "timestamp": "2026-01-25T12:53:15",
+    "response_time": 32
   },
   {
     "service": "API",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 61
+    "timestamp": "2026-01-25T12:53:15",
+    "response_time": 66
   },
   {
     "service": "WEB",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 119
+    "timestamp": "2026-01-25T12:53:15",
+    "response_time": 110
   },
   {
     "service": "DB",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 15
-  },
-  {
-    "service": "AUTH",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 28
-  },
-  {
-    "service": "API",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 50
-  },
-  {
-    "service": "WEB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:19",
-    "response_time": 89
-  },
-  {
-    "service": "API",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 115
-  },
-  {
-    "service": "API",
-    "level": "WARNING",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 193
-  },
-  {
-    "service": "API",
-    "level": "ERROR",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 445
-  },
-  {
-    "service": "WEB",
-    "level": "ERROR",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 515
-  },
-  {
-    "service": "DB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 10
-  },
-  {
-    "service": "AUTH",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 26
-  },
-  {
-    "service": "API",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 57
-  },
-  {
-    "service": "WEB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:20",
-    "response_time": 92
-  },
-  {
-    "service": "WEB",
-    "level": "ERROR",
-    "timestamp": "2026-01-11T13:59:21",
-    "response_time": 365
-  },
-  {
-    "service": "DB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:21",
-    "response_time": 7
-  },
-  {
-    "service": "AUTH",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:21",
-    "response_time": 22
-  },
-  {
-    "service": "API",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:21",
-    "response_time": 45
-  },
-  {
-    "service": "WEB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:21",
-    "response_time": 76
-  },
-  {
-    "service": "DB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 20
-  },
-  {
-    "service": "AUTH",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 43
-  },
-  {
-    "service": "API",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 72
-  },
-  {
-    "service": "WEB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 113
-  },
-  {
-    "service": "DB",
-    "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
+    "timestamp": "2026-01-25T12:53:16",
     "response_time": 14
   },
   {
     "service": "AUTH",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 31
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 34
   },
   {
     "service": "API",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 63
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 70
   },
   {
     "service": "WEB",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:22",
-    "response_time": 95
-  },
-  {
-    "service": "WEB",
-    "level": "ERROR",
-    "timestamp": "2026-01-11T13:59:23",
-    "response_time": 311
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 115
   },
   {
     "service": "DB",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:23",
-    "response_time": 8
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 13
   },
   {
     "service": "AUTH",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:23",
-    "response_time": 25
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 37
   },
   {
     "service": "API",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:23",
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 62
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:16",
+    "response_time": 111
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:17",
+    "response_time": 18
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:17",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:17",
+    "response_time": 64
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:17",
+    "response_time": 120
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 68
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 98
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 159
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 528
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 553
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 628
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 770
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 62
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:18",
+    "response_time": 107
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 18
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 37
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 73
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 104
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 22
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 45
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 66
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:19",
+    "response_time": 111
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:20",
+    "response_time": 20
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:20",
+    "response_time": 33
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:20",
     "response_time": 59
   },
   {
     "service": "WEB",
     "level": "INFO",
-    "timestamp": "2026-01-11T13:59:23",
+    "timestamp": "2026-01-25T12:53:20",
+    "response_time": 107
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 39
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 72
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 119
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 11
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 72
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:21",
+    "response_time": 125
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 18
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 72
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 124
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 101
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 179
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 476
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:22",
+    "response_time": 528
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 52
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 119
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 213
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 576
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 614
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 645
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:23",
+    "response_time": 730
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 89
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 125
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 233
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 294
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 334
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 13
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 26
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 47
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:24",
+    "response_time": 88
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 6
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 23
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 56
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 90
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 112
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 163
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 357
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:25",
+    "response_time": 459
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 14
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 30
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 64
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 95
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 24
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 41
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 76
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:26",
+    "response_time": 129
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 21
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 32
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 56
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 102
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 5
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 16
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 46
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:27",
+    "response_time": 85
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 7
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 31
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 61
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 114
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 5
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 25
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 56
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:28",
+    "response_time": 108
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 127
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 247
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 498
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 575
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 43
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 91
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 189
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 495
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 517
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 588
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:29",
+    "response_time": 694
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:30",
+    "response_time": 20
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:30",
+    "response_time": 42
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:30",
+    "response_time": 66
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:30",
+    "response_time": 102
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:31",
+    "response_time": 373
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:31",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:31",
+    "response_time": 40
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:31",
+    "response_time": 63
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:31",
+    "response_time": 102
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 21
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 36
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 62
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 117
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 21
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 40
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 66
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:32",
+    "response_time": 125
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 37
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 71
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 119
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 11
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 28
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 57
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:33",
+    "response_time": 99
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 45
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 93
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 179
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 484
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 528
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 560
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 620
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 36
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 63
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:34",
+    "response_time": 106
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 13
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 33
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 57
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 104
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 11
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 35
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 65
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:35",
+    "response_time": 107
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 22
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 42
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 79
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 136
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 17
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 32
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 64
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:36",
+    "response_time": 122
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 5
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 22
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 52
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 109
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 15
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 26
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 52
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:37",
+    "response_time": 86
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 8
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 30
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 61
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 120
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 66
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 118
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 186
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 598
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 628
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 716
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:38",
+    "response_time": 835
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 32
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 65
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 109
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 7
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 26
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 57
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:39",
+    "response_time": 115
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 10
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 29
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 50
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 85
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 39
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 64
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:40",
+    "response_time": 110
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:41",
+    "response_time": 20
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:41",
+    "response_time": 42
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:41",
+    "response_time": 68
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:41",
+    "response_time": 117
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 40
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 158
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 230
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 282
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 371
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 33
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 69
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:42",
+    "response_time": 104
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 131
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 178
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 442
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 489
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 19
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 32
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 71
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:43",
+    "response_time": 106
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 13
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 37
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 58
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 108
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 132
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 154
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 493
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:44",
+    "response_time": 594
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 18
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 31
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 56
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 113
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 21
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 43
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 72
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:45",
+    "response_time": 113
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 21
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 39
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 78
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 122
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 12
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 27
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 54
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:46",
+    "response_time": 86
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 5
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 22
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 61
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 112
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 18
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 42
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 68
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:47",
+    "response_time": 122
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 121
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 152
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 373
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 479
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 17
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 29
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 49
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:48",
+    "response_time": 90
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 46
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 85
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 115
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 24
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 57
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:49",
+    "response_time": 99
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 11
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 26
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 50
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 99
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 10
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 23
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 53
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:50",
+    "response_time": 107
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 14
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 38
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 69
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 111
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 78
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 125
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 398
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 493
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:51",
+    "response_time": 612
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:52",
+    "response_time": 409
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:52",
+    "response_time": 9
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:52",
+    "response_time": 19
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:52",
+    "response_time": 56
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:52",
     "response_time": 103
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 117
+  },
+  {
+    "service": "API",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 194
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 403
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 514
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 50
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 127
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 353
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 391
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:53",
+    "response_time": 427
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 22
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 39
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 64
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 98
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 66
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:54",
+    "response_time": 109
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 9
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 20
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 59
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 111
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 19
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 33
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 64
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:55",
+    "response_time": 107
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 5
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 16
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 38
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 83
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 35
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 74
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:56",
+    "response_time": 116
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 57
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 119
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 182
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 648
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 695
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 747
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 836
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 11
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 30
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 69
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:57",
+    "response_time": 113
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 43
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 82
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 139
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 53
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 130
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 300
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 355
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:58",
+    "response_time": 434
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 13
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 36
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 61
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 100
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 52
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 94
+  },
+  {
+    "service": "DB",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 219
+  },
+  {
+    "service": "DB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 616
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 690
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 758
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:53:59",
+    "response_time": 878
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 5
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 16
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 46
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 90
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 76
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 136
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 262
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 296
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:00",
+    "response_time": 408
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 78
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 117
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 218
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 254
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 363
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 44
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 77
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:01",
+    "response_time": 116
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 18
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 28
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 49
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 99
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 21
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 41
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 61
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:02",
+    "response_time": 105
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 16
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 39
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 70
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 117
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 17
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 37
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 62
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:03",
+    "response_time": 104
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 23
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 40
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 74
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 113
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 10
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 21
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 59
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:04",
+    "response_time": 101
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 41
+  },
+  {
+    "service": "AUTH",
+    "level": "WARNING",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 120
+  },
+  {
+    "service": "AUTH",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 240
+  },
+  {
+    "service": "API",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 314
+  },
+  {
+    "service": "WEB",
+    "level": "ERROR",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 410
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 17
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 31
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 70
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:05",
+    "response_time": 112
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 11
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 30
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 62
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 97
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 10
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 33
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 57
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:06",
+    "response_time": 108
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 17
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 34
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 66
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 112
+  },
+  {
+    "service": "DB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 9
+  },
+  {
+    "service": "AUTH",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 29
+  },
+  {
+    "service": "API",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 61
+  },
+  {
+    "service": "WEB",
+    "level": "INFO",
+    "timestamp": "2026-01-25T12:54:07",
+    "response_time": 114
   }
 ]
