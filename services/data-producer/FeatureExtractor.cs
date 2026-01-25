@@ -4,6 +4,7 @@ using System.Text.Json;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.Json.Serialization;
+using System.Collections.Concurrent;
 
 namespace data_producer;
 public static class FeatureExtractor
@@ -41,7 +42,57 @@ public static class FeatureExtractor
         string output = JsonSerializer.Serialize(features, options);
         File.WriteAllText(FeaturePath, output);
     }
+
+    public static void RunRealtime(
+    BlockingCollection<string> input,
+    BlockingCollection<FeatureVector> output,
+    CancellationToken token)
+    {
+        // Running state per service
+        var stats = new Dictionary<string, ServiceStats>();
+
+        foreach (var json in input.GetConsumingEnumerable(token))
+        {
+            var log = JsonSerializer.Deserialize<LogEntry>(json);
+            if (log == null) continue;
+
+            if (!stats.ContainsKey(log.Service))
+                stats[log.Service] = new ServiceStats();
+
+            var s = stats[log.Service];
+            s.LogCount++;
+            s.TotalResponseTime += log.ResponseTime;
+
+            if (log.Level == "ERROR") s.ErrorCount++;
+            if (log.Level == "WARNING") s.WarningCount++;
+
+            // Emit a feature vector every N logs (window)
+            if (s.LogCount % 10 == 0)   // window size = 10
+            {
+                var feature = new FeatureVector
+                {
+                    Service = log.Service,
+                    LogCount = s.LogCount,
+                    ErrorCount = s.ErrorCount,
+                    WarningCount = s.WarningCount,
+                    AvgResponseTime = s.TotalResponseTime / s.LogCount
+                };
+
+                output.Add(feature);
+            }
+        }
+    }
+
 }
+
+public class ServiceStats
+{
+    public int LogCount = 0;
+    public int ErrorCount = 0;
+    public int WarningCount = 0;
+    public int TotalResponseTime = 0;
+}
+
 
 
 public class LogEntry
@@ -79,3 +130,5 @@ public class FeatureVector
     [JsonPropertyName("avg_response_time")]
     public int AvgResponseTime { get; set; }
 }
+
+

@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Text.Json;
 using System.Collections.Generic;
+using System.Collections.Concurrent;
 
 namespace data_producer;
 
@@ -66,5 +67,35 @@ public static class Preprocessor
             { "timestamp", timestamp },
             { "response_time", responseTime }
         };
+    }
+
+    public static void RunRealtime(
+    BlockingCollection<string> input,
+    BlockingCollection<string> output,
+    CancellationToken token)
+    {
+        foreach (var log in input.GetConsumingEnumerable(token))
+        {
+            var cleaned = CleanSingleLog(log);
+
+            if (!string.IsNullOrEmpty(cleaned))
+                output.Add(cleaned);
+        }
+    }
+
+    private static string CleanSingleLog(string line)
+    {
+        try
+        {
+            var structured = ParseLogLine(line);
+
+            // serialize just one log as JSON
+            return JsonSerializer.Serialize(structured);
+        }
+        catch
+        {
+            // malformed logs are ignored in realtime too
+            return null!;
+        }
     }
 }
